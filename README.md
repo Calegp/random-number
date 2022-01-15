@@ -1,2 +1,4 @@
 # random-number
-Gerador de número aleatório
+Gerador de números aleatórios feito em react native.
+
+![screens](https://github.com/Calegp/random-number/blob/main/assets/app.png)
